@@ -1,11 +1,11 @@
 # Table of contents
 
-* [👋 Welcome to A Product](README.md)
+* [👋 Welcome to HiTECH Documentation](README.md)
 
-## Overview
+## ReactFireChat
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [💡 Introduce](reactfirechat/introduce.md)
+* [✨ Getting Started](reactfirechat/getting-started.md)
 
 ## Product Guides
 
