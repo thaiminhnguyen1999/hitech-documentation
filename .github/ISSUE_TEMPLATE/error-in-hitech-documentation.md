@@ -2,7 +2,7 @@
 name: 📃 Error in HiTECH Documentation
 about: 'Error notification in HiTECH Documentation (Example: Code not working/error;
   Misspelling; etc)'
-title: ERROR
+title: Error in HiTECH Documentation
 labels: ERROR
 assignees: ''
 
